@@ -8,7 +8,7 @@ O objetivo do modelo é ilustrar, de forma estruturada, as etapas necessárias p
 
 ## Estrutura do Processo
 
-![Processo de Faturamento](faturamento.png)
+![Faturamento](Faturamento.png)
 
 ---
 
